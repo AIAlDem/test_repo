@@ -1,0 +1,3 @@
+/home/acer/test_repo/tmp/cmake-build/CMakeFiles/Helloworld.dir
+/home/acer/test_repo/tmp/cmake-build/CMakeFiles/edit_cache.dir
+/home/acer/test_repo/tmp/cmake-build/CMakeFiles/rebuild_cache.dir
